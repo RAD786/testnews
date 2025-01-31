@@ -1,0 +1,12 @@
+{
+  "name": "testnews",
+  "version": "1.0.0",
+  "description": "A simple news website",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel --open"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
